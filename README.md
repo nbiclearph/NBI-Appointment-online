@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Complete guide on NBI Clearance Appointment Form — requirements, step-by-step booking process, tips, and FAQs for 2026.">
-  <meta name="google-site-verification" content="1Suh6SPEMOBEe9N6RCtcue_bCQRwmS6Q8SMwN2tUV0o" />
+<meta name="google-site-verification" content="1Suh6SPEMOBEe9N6RCtcue_bCQRwmS6Q8SMwN2tUV0o" />
 </head>
 <body>
 
